@@ -1,1 +1,3 @@
-# foundations-2018
+# Foundations
+
+Stuff from Foundations from **Lede 2018**.
